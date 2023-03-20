@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://github.com/AbuUsaid) -->
 
-<img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="MainBanner" style="max-width: 100%; display: inline-block;" />
+<!-- <img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="MainBanner" style="max-width: 100%; display: inline-block;" /> -->
 
 <h1 align="center">Hi 👋, I'm Abu Usaid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
