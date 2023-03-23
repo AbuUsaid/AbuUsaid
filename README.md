@@ -8,7 +8,7 @@
 <!-- ![Alt Text](https://propulsive.in/assets/img/service-icon/service-dtls.jpg) -->
 
 <p align="center">
-  <img src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="image showing a animated coder"  />
+  <img src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg" alt="image showing a animated coder"  style="height: auto; width: 400px;"/>
 </p>
 
 
