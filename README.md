@@ -12,7 +12,7 @@
 </p>
 
 
-
+## 🚀 About Me
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express, React, and Nodejs)
 - 🔍 I am constantly seeking opportunities to grow and improve my skills
 - 🎯 My goal is to become a proficient MERN stack developer and to contribute to open-source projects 
