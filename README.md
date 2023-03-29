@@ -28,11 +28,20 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=AbuUsaid&color=brightgreen) -->
 ## 📈 GitHub Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuusaid&show_icons=true&locale=en&layout=compact" alt="abuusaid" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuusaid&show_icons=true&locale=en&layout=compact" alt="abuusaid" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuusaid&show_icons=true&locale=en" alt="abuusaid" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuusaid&show_icons=true&locale=en" alt="abuusaid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuusaid&" alt="abuusaid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuusaid&" alt="abuusaid" /></p> -->
+
+<!-- My edit -->
+<table>
+  <tr>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abuusaid&show_icons=true&locale=en&layout=compact"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=abuusaid&show_icons=true&locale=en"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abuusaid&"/></td>
+  </tr>
+</table>
 
 ## 👀 Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{AbuUsaid}/count.svg) 
