@@ -1,9 +1,12 @@
 <!-- [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://github.com/AbuUsaid) -->
 
 <!-- <img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" alt="MainBanner" style="max-width: 100%; display: inline-block;" /> -->
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abu+Usaid" alt="Typing SVG" /></a></h1>
+<!-- <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Abu+Usaid" alt="Typing SVG" /></a></h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Abu Usaid</h1> -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&width=435&lines=A+passionate+frontend+dev+from+India" alt="Typing SVG" /></a></h3>
 
-<h1 align="center">Hi 👋, I'm Abu Usaid</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<!-- <h3 align="center">A passionate frontend developer from India </h3> -->
 
 <!-- ![Alt Text](https://propulsive.in/assets/img/service-icon/service-dtls.jpg) -->
 
