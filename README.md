@@ -28,7 +28,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs,postman,git,py,vscode" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs,postman,git,jest,py,vscode" alt="Technologies and Tools" />
 </div>
 
 
