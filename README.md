@@ -22,13 +22,15 @@
 - 🔍 I am constantly seeking opportunities to grow and improve my skills
 - 🎯 My goal is to become a proficient MERN stack developer and to contribute to open-source projects 
 - 📫 How to reach me **abuusaidbadewale@gmail.com**
-
-<h3 align="left">🔗 Connect with me:</h3>
+🔗 Connect with me
+## 🔗 Connect with me
+<!-- <h3 align="left">🔗 Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/abu-usaid-badewale-21a467199" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abu-usaid-badewale-21a467199"  /></a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🛠️ Languages and Tools   
+<!-- <h3 align="left">🛠️ Languages and Tools:</h3> -->
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs,postman,git,jest,py,vscode" alt="Technologies and Tools" />
 </div>
