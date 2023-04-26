@@ -22,7 +22,7 @@
 - 🔍 I am constantly seeking opportunities to grow and improve my skills
 - 🎯 My goal is to become a proficient MERN stack developer and to contribute to open-source projects 
 - 📫 How to reach me **abuusaidbadewale@gmail.com**
-🔗 Connect with me
+
 ## 🔗 Connect with me
 <!-- <h3 align="left">🔗 Connect with me:</h3> -->
 <p align="left">
