@@ -47,7 +47,7 @@
 <!-- My edit -->
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=abuusaid&theme=chartreuse-dark&show_icons=true&locale=en"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=abuusaid&theme=chartreuse-dark&show_icons=true&rank_icon=github&hide_rank=true&locale=en"/></td>
     <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abuusaid&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact"/></td>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abuusaid&theme=chartreuse-dark"/></td>
   </tr>
