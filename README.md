@@ -27,11 +27,11 @@
 - 🎯 My goal is to become a proficient MERN stack developer and to contribute to open-source projects 
 - 📫 How to reach me **abuusaidbadewale@gmail.com**
 
-## 🔗 Connect with me
+<!---## 🔗 Connect with me--->
 <!-- <h3 align="left">🔗 Connect with me:</h3> -->
-<p align="left">
+<!---<p align="left">
 <a href="https://linkedin.com/in/abu-usaid-badewale-21a467199" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abu-usaid-badewale-21a467199"  /></a>
-</p>
+</p>--->
 
 ## 🛠️ Languages and Tools   
 <!-- <h3 align="left">🛠️ Languages and Tools:</h3> -->
