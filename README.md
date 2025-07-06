@@ -22,10 +22,11 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **MERN Stack** (MongoDB, Express, React, and Nodejs)
-- 🔍 I am constantly seeking opportunities to grow and improve my skills
-- 🎯 My goal is to become a proficient MERN stack developer and to contribute to open-source projects 
-- 📫 How to reach me **abuusaidbadewale@gmail.com**
+- 👨‍💻 I'm a **Software Engineer** passionate about building robust and scalable solutions
+- 🛠️ I enjoy working across the stack and thrive on solving challenging problems
+- 🌱 I’m always learning new technologies and best practices to level up my craft
+- 🤝 I love collaborating with teams and contributing to open-source projects
+- 📫 Reach out to me at **abuusaidbadewale@gmail.com**
 
 <!---## 🔗 Connect with me--->
 <!-- <h3 align="left">🔗 Connect with me:</h3> -->
