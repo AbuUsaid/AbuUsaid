@@ -22,11 +22,12 @@
 
 
 ## 🚀 About Me
-- 👨‍💻 I'm a **Software Engineer** passionate about building robust and scalable solutions
-- 🛠️ I enjoy working across the stack and thrive on solving challenging problems
-- 🌱 I’m always learning new technologies and best practices to level up my craft
-- 🤝 I love collaborating with teams and contributing to open-source projects
-- 📫 Reach out to me at **abuusaidbadewale@gmail.com**
+
+- 👨‍💻 I'm a **Software Developer** dedicated to crafting reliable and efficient software solutions.
+- 🛠️ I enjoy working with a variety of technologies and thrive on bringing ideas to life through code.
+- 🌱 I’m always eager to learn new tools, frameworks, and best practices to enhance my development skills.
+- 🤝 I value teamwork and enjoy contributing to collaborative projects, including open-source initiatives.
+- 📫 Feel free to contact me at **abuusaidbadewale@gmail.com**
 
 <!---## 🔗 Connect with me--->
 <!-- <h3 align="left">🔗 Connect with me:</h3> -->
